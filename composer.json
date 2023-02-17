@@ -6,7 +6,7 @@
         "microsoft/azure-storage-queue": "*",
         "microsoft/azure-storage-file": "*",
         "mongodb/mongodb": "^1.5",
-        "firebase/php-jwt": "^5.0",
+        "firebase/php-jwt": "^6.0",
         "php-di/php-di": "^6.0",
         "zendframework/zend-diactoros": "^2.2",
         "sendgrid/sendgrid": "~7"
